@@ -4,7 +4,7 @@ function topla(a, b) {
     result: a + b,
   };
 }
-
+asd
 function carp(a, b) {
   return {
     functionName: "carp",
@@ -12,7 +12,16 @@ function carp(a, b) {
   };
 }
 
-let resultArray = [topla(2, 3), carp(2, 3)];
+function bolme(a,b){
+  return{
+    functionName: "bolme",
+    result: a / b
+  }
+}
+
+let resultArray = [topla(2, 3), carp(2, 3), bolme(6,6)];
+
+
 
 let htmlRenderText = "Results:          ";
 resultArray.forEach((element) => {
