@@ -4,7 +4,7 @@ function topla(a, b) {
     result: a + b,
   };
 }
-
+asd
 function carp(a, b) {
   return {
     functionName: "carp",
