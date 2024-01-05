@@ -1,8 +1,8 @@
-function topla(a, b) {
+function carpma(a, b) {
   return {
     functionName: "çarpma",
     result: a * b,
   };
 }
 
-export {topla}
+export {carpma}
