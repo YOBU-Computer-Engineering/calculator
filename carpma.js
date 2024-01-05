@@ -1,3 +1,4 @@
+//deneme
 function carpma(a, b) {
   return {
     functionName: "çarpma",
