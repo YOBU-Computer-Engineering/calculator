@@ -6,3 +6,4 @@ function bolme(a, b) {
 }
 
 export {bolme}
+ 
