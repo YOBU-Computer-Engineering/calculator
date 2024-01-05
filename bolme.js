@@ -1,7 +1,7 @@
 function bolme(a, b) {
   return {
     functionName: "bölme",
-    result: a * b,
+    result: a / b,
   };
 }
 
