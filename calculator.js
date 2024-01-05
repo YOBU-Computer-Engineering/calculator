@@ -4,22 +4,9 @@ function topla(a, b) {
     result: a + b,
   };
 }
-asd
-function carp(a, b) {
-  return {
-    functionName: "carp",
-    result: a * b,
-  };
-}
+ 
 
-function bolme(a,b){
-  return{
-    functionName: "bolme",
-    result: a / b
-  }
-}
-
-let resultArray = [topla(2, 3), carp(2, 3), bolme(6,6)];
+let resultArray = [topla(2, 3)];
 
 
 
