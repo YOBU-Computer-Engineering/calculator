@@ -1,9 +1,4 @@
-function topla(a, b) {
-  return {
-    functionName: "topla",
-    result: a + b,
-  };
-}
+import {topla} from "./toplama.js"
  
 
 let resultArray = [topla(2, 3)];
