@@ -6,7 +6,7 @@ let resultArray = [
   carpma(10, 5),
   carpma(10, 5),
 ];
-
+ 
 
 
 let htmlRenderText = "Results:          ";
