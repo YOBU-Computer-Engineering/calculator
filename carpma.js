@@ -1,6 +1,6 @@
 function carpma(a, b) {
   return {
-    functionName: "carpma",
+    functionName: "çarpma",
     result: a * b,
   };
 }
